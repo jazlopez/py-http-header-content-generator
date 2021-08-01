@@ -1,4 +1,5 @@
-# py-http-header-content-generator (AKA test my server header size configuration)
+# py-http-header-content-generator 
+### a.k.a test my server header size configuration
 
 Script utility to create request header on the fly upon user provided length.
 Request headers will ultimately send to an user defined endpoint and it will capture
