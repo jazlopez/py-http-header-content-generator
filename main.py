@@ -59,11 +59,3 @@ print(f".... receiving response code:{response.status_code}")
 time.sleep(1)
 print(f"........ {response.text}")
 print("...good bye")
-
-# print(results)
-
-
-# example =
-# bb = len(example.encode('utf-8'))
-# print(example)
-# print(bb)
